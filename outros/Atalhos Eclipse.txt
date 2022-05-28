@@ -1,0 +1,6 @@
+Ctrl+d- apaga a linha
+Alt+Shift+r - renomeia em todo o projeto
+Ctrl+3 - Digita ggas para criar os gets and seters
+Ctrl+baixo - coloca a linha pra baixo
+Ctrl+Alt+baixo - copia a linha pra baixo
+Ctrl+Shft+F - auto-identa tudo

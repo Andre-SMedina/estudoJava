@@ -1,0 +1,13 @@
+* exemplos de identificadores aceitos no Java: Teste, x, y2, MaxLoad, $up, _top, my_var.
+* literais em string: \', \", \\, \r, \n, \f, \t, \b, \ddd, \uxxxx
+* operadores Relacionais: ==, !=, >, >=, <, <=
+* Operadores Lógicos: &(AND), |(OR), ^(XOR), !(NOT)
+	||(OR de curto-circuito): Se o resultado do primeiro for TRUE, não lê os próximos.
+	&&(AND de curto-circuito): Se o resultado do primeiro for FALSE, não lê os próximos.
+* A constante "final" faz com que a classe não possa ter subclasse e que uma variável só possa ser aterada 1 vez.
+* Especificadores de formato:
+	%d = para byte, short, int e long
+	%.2f = float ou double com duas casas decimais
+	%b = booleano minúsculo
+	%s = String
+* catch (Exception exc) - pega todas as excessões
