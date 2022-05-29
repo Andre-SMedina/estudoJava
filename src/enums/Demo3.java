@@ -16,7 +16,7 @@ enum Transport {
 	}
 }
 
-class EnumDemo3 {
+class Demo3 {
 	public static void main(String args[]) {
 		Transport tp;
 
